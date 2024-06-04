@@ -1,0 +1,5 @@
+my-folder -> commands current-file-structure txt dummy  
+dummy -> hello.txt practice
+practice -> source destination
+source -> index.html
+destination -> index
